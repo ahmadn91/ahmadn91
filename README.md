@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmed Naseem Majeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/ahmedmajeed91/)](www.linkedin.com/in/ahmedmajeed91/)
+[![Linkedin Badge](https://img.shields.io/badge/-AhmedNaseemMajeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/ahmedmajeed91/)](www.linkedin.com/in/ahmedmajeed91/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadnmajeed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadnmajeed@gmail.com)](mailto:ahmadnmajeed@gmail.com)
 
 From a very young age, I was interested in technology, computer science, and networking.
