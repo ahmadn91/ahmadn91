@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedNaseemMajeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/ahmedmajeed91/)](www.linkedin.com/in/ahmedmajeed91/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadnmajeed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadnmajeed@gmail.com)](mailto:ahmadnmajeed@gmail.com)
 
-From a very young age, I was interested in technology, computer science, and networking.
+Python developer with great passion in Web Development.
 <br/>
 My passion led me to study network engineering, took a lot of programming courses, and read many books related to it. I also spend most of my time writing codes.
 <br/>
@@ -13,7 +13,7 @@ My skills involve programming, automation and deep learning using python, mobile
 <br/>
 Wanna build the next biggest Project in the Universe? reach out to me: alifaleh.me@gmail.com
 
-![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-purple?style=flat-square&logo=odoo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white)
